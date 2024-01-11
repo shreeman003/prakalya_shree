@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\MARLspectrumSharingV2X\\model/sarl_model/agent"
+all_model_checkpoint_paths: "F:\\MARLspectrumSharingV2X\\model/sarl_model/agent"
